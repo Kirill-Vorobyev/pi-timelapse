@@ -1,0 +1,16 @@
+{
+  "name": "pi-timelapse",
+  "version": "1.0.0",
+  "description": "WebServer which hosts timelapses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill Vorobyev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ngrok": "^3.2.7",
+    "nodemon": "^2.0.4"
+  }
+}

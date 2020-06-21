@@ -1,0 +1,7 @@
+/images/*
+/node_modules
+/movies/*
+/public/*
+ffmpeg.log
+log.log
+nohup.out
