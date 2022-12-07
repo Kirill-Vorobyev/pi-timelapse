@@ -9,7 +9,7 @@
   "author": "Kirill Vorobyev",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "ngrok": "^3.2.7",
     "nodemon": "^2.0.4"
   }
